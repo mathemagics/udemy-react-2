@@ -5,5 +5,5 @@ export default function () {
     {title: 'Crime and Punishments'},
     {title: 'Being and Time'},
     {title: 'Being and Nothingness'},
-  ]
+  ];
 }

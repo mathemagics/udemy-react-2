@@ -10,5 +10,8 @@
     "ecmaFeatures": {
       "jsx": true
     }
+  },
+  "rules": {
+    "react/prop-types": [2, skipUndeclared: true ]
   }
 }
